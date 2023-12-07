@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROWDATA>
+    <DOC>
+        <level>等级 </level>
+        <danbig>大段位 </danbig>
+        <danname>大段位名称 </danname>
+        <dansmall>小段位 </dansmall>
+        <danpic>段位图标（_big表示大图彪，_small表示小图标） </danpic>
+        <needscoremin>段位最低积分(包含) </needscoremin>
+        <needscoremax>段位最高积分(不包含) </needscoremax>
+        <weekname>周邮件标题 </weekname>
+        <weekdes>周邮件描述 </weekdes>
+        <weekitem1>周奖励1道具ID </weekitem1>
+        <weeknum1>周奖励1数值 </weeknum1>
+        <weekitem2>周奖励2道具ID </weekitem2>
+        <weeknum2>周奖奖励2数值 </weeknum2>
+        <mounthname>月邮件标题 </mounthname>
+        <mounthdes>月邮件描述 </mounthdes>
+        <monthitem1>月奖励1ID </monthitem1>
+        <monthnum1>月奖励1数值 </monthnum1>
+        <monthitem2>月奖励2ID </monthitem2>
+        <monthnum2>月奖励2数值 </monthnum2>
+        <version>版本号 </version>
+    </DOC>
+    <ROW>
+        <level>1000</level>
+        <danbig>0</danbig>
+        <danname>测试数据</danname>
+        <dansmall>0</dansmall>
+        <danpic>icon_5_division_xr_5</danpic>
+        <needscoremin>0</needscoremin>
+        <needscoremax>0</needscoremax>
+        <weekname>测试数据</weekname>
+        <weekdes>测试数据</weekdes>
+        <weekitem1>0</weekitem1>
+        <weeknum1>0</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>测试数据</mounthname>
+        <mounthdes>测试数据</mounthdes>
+        <monthitem1>0</monthitem1>
+        <monthnum1>0</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>0</version>
+    </ROW>
+    <ROW>
+        <level>1</level>
+        <danbig>1</danbig>
+        <danname>Rookie Ⅴ</danname>
+        <dansmall>1</dansmall>
+        <danpic>icon_5_division_xr_5</danpic>
+        <needscoremin>0</needscoremin>
+        <needscoremax>1030</needscoremax>
+        <weekname>Rookie Rewards Ⅴ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Rookie Ⅴ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030503</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>2</level>
+        <danbig>1</danbig>
+        <danname>Rookie Ⅳ</danname>
+        <dansmall>2</dansmall>
+        <danpic>icon_5_division_xr_4</danpic>
+        <needscoremin>1030</needscoremin>
+        <needscoremax>1090</needscoremax>
+        <weekname>Rookie Rewards Ⅳ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Rookie Ⅳ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030503</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>3</level>
+        <danbig>1</danbig>
+        <danname>Rookie Ⅲ</danname>
+        <dansmall>3</dansmall>
+        <danpic>icon_5_division_xr_3</danpic>
+        <needscoremin>1090</needscoremin>
+        <needscoremax>1160</needscoremax>
+        <weekname>Rookie Rewards Ⅲ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Rookie Ⅲ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030503</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>4</level>
+        <danbig>1</danbig>
+        <danname>Rookie Ⅱ</danname>
+        <dansmall>4</dansmall>
+        <danpic>icon_5_division_xr_2</danpic>
+        <needscoremin>1160</needscoremin>
+        <needscoremax>1260</needscoremax>
+        <weekname>Rookie Rewards Ⅱ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Rookie Ⅱ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030503</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>5</level>
+        <danbig>1</danbig>
+        <danname>Rookie Ⅰ</danname>
+        <dansmall>5</dansmall>
+        <danpic>icon_5_division_xr_1</danpic>
+        <needscoremin>1260</needscoremin>
+        <needscoremax>1380</needscoremax>
+        <weekname>Rookie Rewards Ⅰ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Rookie Ⅰ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030503</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>6</level>
+        <danbig>2</danbig>
+        <danname>Elite Ⅴ</danname>
+        <dansmall>1</dansmall>
+        <danpic>icon_5_division_jy_5</danpic>
+        <needscoremin>1380</needscoremin>
+        <needscoremax>1520</needscoremax>
+        <weekname>Elite Rewards Ⅴ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Elite Ⅴ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030205</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>7</level>
+        <danbig>2</danbig>
+        <danname>Elite Ⅳ</danname>
+        <dansmall>2</dansmall>
+        <danpic>icon_5_division_jy_4</danpic>
+        <needscoremin>1520</needscoremin>
+        <needscoremax>1720</needscoremax>
+        <weekname>Elite Rewards Ⅳ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Elite Ⅳ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030205</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>8</level>
+        <danbig>2</danbig>
+        <danname>Elite Ⅲ</danname>
+        <dansmall>3</dansmall>
+        <danpic>icon_5_division_jy_3</danpic>
+        <needscoremin>1720</needscoremin>
+        <needscoremax>1950</needscoremax>
+        <weekname>Elite Rewards Ⅲ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Elite Ⅲ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030205</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>9</level>
+        <danbig>2</danbig>
+        <danname>Elite Ⅱ</danname>
+        <dansmall>4</dansmall>
+        <danpic>icon_5_division_jy_2</danpic>
+        <needscoremin>1950</needscoremin>
+        <needscoremax>2220</needscoremax>
+        <weekname>Elite Rewards Ⅱ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Elite Ⅱ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030205</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>10</level>
+        <danbig>2</danbig>
+        <danname>Elite Ⅰ</danname>
+        <dansmall>5</dansmall>
+        <danpic>icon_5_division_jy_1</danpic>
+        <needscoremin>2220</needscoremin>
+        <needscoremax>2520</needscoremax>
+        <weekname>Elite Rewards Ⅰ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Elite Ⅰ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030205</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>11</level>
+        <danbig>3</danbig>
+        <danname>Expert Ⅴ</danname>
+        <dansmall>1</dansmall>
+        <danpic>icon_5_division_zj_5</danpic>
+        <needscoremin>2520</needscoremin>
+        <needscoremax>2910</needscoremax>
+        <weekname>Expert Rewards Ⅴ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Expert Ⅴ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>12</level>
+        <danbig>3</danbig>
+        <danname>Expert Ⅳ</danname>
+        <dansmall>2</dansmall>
+        <danpic>icon_5_division_zj_4</danpic>
+        <needscoremin>2910</needscoremin>
+        <needscoremax>3360</needscoremax>
+        <weekname>Expert Rewards Ⅳ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Expert Ⅳ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>13</level>
+        <danbig>3</danbig>
+        <danname>Expert Ⅲ</danname>
+        <dansmall>3</dansmall>
+        <danpic>icon_5_division_zj_3</danpic>
+        <needscoremin>3360</needscoremin>
+        <needscoremax>3880</needscoremax>
+        <weekname>Expert Rewards Ⅲ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Expert Ⅲ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>14</level>
+        <danbig>3</danbig>
+        <danname>Expert Ⅱ</danname>
+        <dansmall>4</dansmall>
+        <danpic>icon_5_division_zj_2</danpic>
+        <needscoremin>3880</needscoremin>
+        <needscoremax>4470</needscoremax>
+        <weekname>Expert Rewards Ⅱ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Expert Ⅱ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>15</level>
+        <danbig>3</danbig>
+        <danname>Expert Ⅰ</danname>
+        <dansmall>5</dansmall>
+        <danpic>icon_5_division_zj_1</danpic>
+        <needscoremin>4470</needscoremin>
+        <needscoremax>5200</needscoremax>
+        <weekname>Expert Rewards Ⅰ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1020103</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Expert Ⅰ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>259200</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>16</level>
+        <danbig>4</danbig>
+        <danname>Master Ⅴ</danname>
+        <dansmall>1</dansmall>
+        <danpic>icon_5_division_ds_5</danpic>
+        <needscoremin>5200</needscoremin>
+        <needscoremax>6000</needscoremax>
+        <weekname>Master Rewards Ⅴ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Master Ⅴ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>604800</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>17</level>
+        <danbig>4</danbig>
+        <danname>Master Ⅳ</danname>
+        <dansmall>2</dansmall>
+        <danpic>icon_5_division_ds_4</danpic>
+        <needscoremin>6000</needscoremin>
+        <needscoremax>6800</needscoremax>
+        <weekname>Master Rewards Ⅳ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Master Ⅳ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>604800</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>18</level>
+        <danbig>4</danbig>
+        <danname>Master Ⅲ</danname>
+        <dansmall>3</dansmall>
+        <danpic>icon_5_division_ds_3</danpic>
+        <needscoremin>6800</needscoremin>
+        <needscoremax>7700</needscoremax>
+        <weekname>Master Rewards Ⅲ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Master Ⅲ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>604800</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>19</level>
+        <danbig>4</danbig>
+        <danname>Master Ⅱ</danname>
+        <dansmall>4</dansmall>
+        <danpic>icon_5_division_ds_2</danpic>
+        <needscoremin>7700</needscoremin>
+        <needscoremax>8700</needscoremax>
+        <weekname>Master Rewards Ⅱ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Master Ⅱ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>604800</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>20</level>
+        <danbig>4</danbig>
+        <danname>Master Ⅰ</danname>
+        <dansmall>5</dansmall>
+        <danpic>icon_5_division_ds_1</danpic>
+        <needscoremin>8700</needscoremin>
+        <needscoremax>9800</needscoremax>
+        <weekname>Master Rewards Ⅰ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-Master Ⅰ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>604800</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>21</level>
+        <danbig>5</danbig>
+        <danname>ACE Ⅴ</danname>
+        <dansmall>1</dansmall>
+        <danpic>icon_5_division_wz_5</danpic>
+        <needscoremin>9800</needscoremin>
+        <needscoremax>11000</needscoremax>
+        <weekname>ACE Rewards Ⅴ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-ACE Ⅴ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>604800</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>22</level>
+        <danbig>5</danbig>
+        <danname>ACE Ⅳ</danname>
+        <dansmall>2</dansmall>
+        <danpic>icon_5_division_wz_4</danpic>
+        <needscoremin>11000</needscoremin>
+        <needscoremax>12000</needscoremax>
+        <weekname>ACE Rewards Ⅳ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-ACE Ⅳ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>604800</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>23</level>
+        <danbig>5</danbig>
+        <danname>ACE Ⅲ</danname>
+        <dansmall>3</dansmall>
+        <danpic>icon_5_division_wz_3</danpic>
+        <needscoremin>12000</needscoremin>
+        <needscoremax>13000</needscoremax>
+        <weekname>ACE Rewards Ⅲ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-ACE Ⅲ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>604800</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>24</level>
+        <danbig>5</danbig>
+        <danname>ACE Ⅱ</danname>
+        <dansmall>4</dansmall>
+        <danpic>icon_5_division_wz_2</danpic>
+        <needscoremin>13000</needscoremin>
+        <needscoremax>15000</needscoremax>
+        <weekname>ACE Rewards Ⅱ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-ACE Ⅱ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>604800</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>25</level>
+        <danbig>5</danbig>
+        <danname>ACE Ⅰ</danname>
+        <dansmall>5</dansmall>
+        <danpic>icon_5_division_wz_1</danpic>
+        <needscoremin>15000</needscoremin>
+        <needscoremax>17000</needscoremax>
+        <weekname>ACE Rewards Ⅰ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-ACE Ⅰ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1060107</monthitem1>
+        <monthnum1>864000</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>26</level>
+        <danbig>6</danbig>
+        <danname>GUN MASTER Ⅴ</danname>
+        <dansmall>1</dansmall>
+        <danpic>icon_5_division_qs_5</danpic>
+        <needscoremin>17000</needscoremin>
+        <needscoremax>19000</needscoremax>
+        <weekname>GUN MASTER Rewards Ⅴ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-GUN MASTER Ⅴ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030507</monthitem1>
+        <monthnum1>864000</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>27</level>
+        <danbig>6</danbig>
+        <danname>GUN MASTER Ⅳ</danname>
+        <dansmall>2</dansmall>
+        <danpic>icon_5_division_qs_4</danpic>
+        <needscoremin>19000</needscoremin>
+        <needscoremax>21000</needscoremax>
+        <weekname>GUN MASTER Rewards Ⅳ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-GUN MASTER Ⅳ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1040207</monthitem1>
+        <monthnum1>864000</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>28</level>
+        <danbig>6</danbig>
+        <danname>GUN MASTER Ⅲ</danname>
+        <dansmall>3</dansmall>
+        <danpic>icon_5_division_qs_3</danpic>
+        <needscoremin>21000</needscoremin>
+        <needscoremax>23000</needscoremax>
+        <weekname>GUN MASTER Rewards Ⅲ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-GUN MASTER Ⅲ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1040207</monthitem1>
+        <monthnum1>1209600</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>29</level>
+        <danbig>6</danbig>
+        <danname>GUN MASTER Ⅱ</danname>
+        <dansmall>4</dansmall>
+        <danpic>icon_5_division_qs_2</danpic>
+        <needscoremin>23000</needscoremin>
+        <needscoremax>26000</needscoremax>
+        <weekname>GUN MASTER Rewards Ⅱ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-GUN MASTER Ⅱ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1030933</monthitem1>
+        <monthnum1>1209600</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+    <ROW>
+        <level>30</level>
+        <danbig>6</danbig>
+        <danname>GUN MASTER Ⅰ</danname>
+        <dansmall>5</dansmall>
+        <danpic>icon_5_division_qs_1</danpic>
+        <needscoremin>26000</needscoremin>
+        <needscoremax>30000</needscoremax>
+        <weekname>GUN MASTER Rewards Ⅰ</weekname>
+        <weekdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</weekdes>
+        <weekitem1>1030503</weekitem1>
+        <weeknum1>259200</weeknum1>
+        <weekitem2>0</weekitem2>
+        <weeknum2>0</weeknum2>
+        <mounthname>SEASONAL REWARDS-GUN MASTER Ⅰ</mounthname>
+        <mounthdes>Congrats! You are awarded with these supplies for your spectacular performance in Ranking Match last week!</mounthdes>
+        <monthitem1>1031020</monthitem1>
+        <monthnum1>2592000</monthnum1>
+        <monthitem2>0</monthitem2>
+        <monthnum2>0</monthnum2>
+        <version>1</version>
+    </ROW>
+</ROWDATA>
